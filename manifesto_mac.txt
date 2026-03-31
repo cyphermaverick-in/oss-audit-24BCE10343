@@ -1,0 +1,20 @@
+========================================
+ MY OPEN SOURCE MANIFESTO
+ Generated on: 31 March 2026
+ By: mac
+========================================
+
+I believe in the power of open-source software.
+
+Every day, I rely on Git — not built for profit alone,
+but shaped by a community that values shared progress.
+
+To me, freedom means freedom.
+It is the ability to learn, modify, and build without restriction.
+
+One day, I will create a startup platform and share it openly,
+so others can build on it, just as I have built on the work of others.
+
+Open source is not just code — it is collaboration.
+
+========================================
